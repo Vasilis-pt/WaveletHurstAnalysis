@@ -18,3 +18,10 @@ This project analyzes SYM-H index data to compute wavelet spectra and estimate H
 2. Run the script:
    ```bash
    python WaveletHurstExponent.py
+## Output
+The script will generate plots of the wavelet spectra.
+
+Estimated Hurst exponents will be saved in a CSV file.
+
+## Acknowledgments
+SYM-H data provided by the Kyoto World Data Center.
